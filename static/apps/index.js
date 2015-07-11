@@ -1,0 +1,5 @@
+(function(){
+  Angular.createApp('app', []);
+
+
+})();
